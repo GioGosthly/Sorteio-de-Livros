@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    background-color: #FF6347;
+  }
+  h1 {
+    color:rgb(179, 9, 23);
+    text-align: center;
+  }
+  p.linkAmazon {
+    text-align: center;
+    color: black;
+  }
+  
+  input {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: 10%;
+  }
+  
+  .btn {
+    display: block;
+    margin: 0 auto;
+    border-radius:5%;
+  }
+
+  .btn:hover{
+    background-color:rgb(120, 170, 211);
+  }
+
+  .texto {
+    text-align: center;
+    color:rgb(180, 44, 19);
+  }
+  
+  p.adicionaLeitura {
+    text-align: center;
+    font-size: 20px;
+    text-decoration: overline underline;
+  }
+
+  input:focus{
+    background-color:rgb(170, 203, 231)
+  }
+  
+  
